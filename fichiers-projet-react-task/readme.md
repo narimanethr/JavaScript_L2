@@ -33,7 +33,6 @@ on peux produire un bundle et lancer le programme avec la commande :
 ## exécuter le projet ##
 
  Avancement et réalisation du projet:
--Nous avons réussi à créer un block note qui regroupe toutes les taches dont 
-nous disposons et qui peut eventuellement en recevoir et en gerer des nouvelles,
+- réussi à créer un block note qui regroupe toutes les taches dont  nous disposons et qui peut eventuellement en recevoir et en gerer des nouvelles,
 cependant la majorités des fonctionnalitées exigées mentionnées sur le cahier des charges
 à l'excéption du tri des taches par ordre décroissant des niveaux de priorité.(sort avec fonction taskcompares dans Todo)
